@@ -1,0 +1,118 @@
+{
+  "name": "Malory Bernard",
+  "player": "Tricia Boynton",
+  "calling": "Aristocrat",
+  "age": 35,
+  "wealth_rating": 8,
+  "vitality": 2,
+  "coordination": 3,
+  "wit": 4,
+  "intellect": 3,
+  "charm": 4,
+  "will": 2,
+  "prowess": 7,
+  "actions": 2,
+  "experience": 0,
+  "corruption": {
+    "desire": {
+      "affliction": "Addiction",
+      "value": 1
+    }
+  }
+  ,
+  "skills": [
+    {
+      "name": "Etiquette",
+      "rating": 4
+    },
+    {
+      "name": "History",
+      "rating": 3
+    },
+    {
+      "name": "French",
+      "rating": 2
+    },
+    {
+      "name": "Chinese",
+      "rating": 2
+    },
+    {
+      "name": "Riding",
+      "rating": 2
+    },
+    {
+      "name": "Acting",
+      "rating": 2
+    },
+    {
+      "name": "Law",
+      "rating": 2
+    },
+    {
+      "name": "Pistol",
+      "rating": 3,
+      "values": [
+        "Fast Aim",
+        "Fast Draw"
+      ]
+    },
+    {
+      "name": "Rifle",
+      "rating": 2
+    }
+  ],
+  "qualities": [
+    "Credentials",
+    "Wealthy",
+    "Baronette"
+  ],
+  "impediments": [
+    "Disowned"
+  ],
+  "features": [
+    "Deference",
+    "Allegiance"
+  ],
+  "wounds": [
+  ],
+  "armour": [
+    "Respirator: 1 point to head",
+    "Leather: 1 points to all locations"
+  ],
+  "weapons": [
+    {
+      "name": "Revolver",
+      "rating": 3,
+      "damage": 5,
+      "range": 100,
+      "ammo": 5,
+      "cost": "10 £",
+      "ammo_cost": "1 £/20"
+    },
+    {
+      "name": "Westgate Executioner",
+      "rating": 3,
+      "damage": 6,
+      "range": 75,
+      "ammo": 10,
+      "cost": "10 s",
+      "ammo_cost": "1 £/20"
+    },
+    {
+      "name": "Combat Knife",
+      "rating": 1,
+      "damage": 1,
+      "range": 3,
+      "cost": "10 s"
+    }
+  ],
+  "possessions": [
+    "- Leather armour",
+    "- A good quality respirator",
+    "- Revolver (loaded)",
+    "- Box of revolver rounds",
+    "- Combat knife",
+    "- Westgate Executioner"
+  ]
+}
