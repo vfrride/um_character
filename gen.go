@@ -1,9 +1,7 @@
 /*
- * Basic merging of PDF files.
- * Simply loads all pages for each file and writes to the output file.
- * See pdf_merge_advanced.go for a more advanced version which handles merging document forms (acro forms) also.
+ * Overlays character information on the pdf
  *
- * Run as: go run pdf_merge.go output.pdf input1.pdf input2.pdf input3.pdf ...
+ * Run as: go run gen.go <input.json> 
  */
 
 package main
